@@ -29,3 +29,9 @@ colorScheme = "noir"
   [permalinks.page]
     posts = '/posts/:contentbasename/'
     # linux = '/posts/:contentbasename/'
+
+[menu]
+  [[main]]
+    name = "Blog"
+    pageRef = "posts"
+    weight = 10
