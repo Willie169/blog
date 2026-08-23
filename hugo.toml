@@ -1,8 +1,30 @@
-theme = "blowfish"
-baseURL = 'https://example.org/'
+baseURL = 'https://willie169.github.io/blog/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+theme = 'blowfish'
+title = "Willie169's Blog"
+
+[params]
+colorScheme = "noir"
+    [params.author]
+    name = "Willie Shen"
+    image = "img/willie169.jpeg"
+    headline = "ABC"
+    bio = "DEF"
+    links = [
+      { github = "https://github.com/Willie169" },
+      { mastodon = "https://mastodon.social/@willie_shen" },
+    ]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[permalinks]
+  [permalinks.page]
+    posts = '/posts/:contentbasename/'
+    # linux = '/posts/:contentbasename/'
