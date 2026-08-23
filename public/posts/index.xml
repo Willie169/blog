@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Willie169&#39;s Blog</title>
-    <link>http://localhost:1313/blog/posts/</link>
+    <link>https://willie169.github.io/blog/posts/</link>
     <description>Recent content in Posts on Willie169&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2026 Willie Shen</copyright>
-    <lastBuildDate>Sun, 23 Aug 2026 20:00:14 +0800</lastBuildDate><atom:link href="http://localhost:1313/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Aug 2026 20:00:14 +0800</lastBuildDate><atom:link href="https://willie169.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Helloworld</title>
-      <link>http://localhost:1313/blog/posts/helloworld/</link>
+      <link>https://willie169.github.io/blog/posts/helloworld/</link>
       <pubDate>Sun, 23 Aug 2026 20:00:14 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/posts/helloworld/</guid>
+      <guid>https://willie169.github.io/blog/posts/helloworld/</guid>
       <description>&lt;p&gt;Test&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://example.com&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;this is a link&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;code&lt;/code&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;list&lt;/li&gt;&#xA;&lt;li&gt;list&#xA;&lt;ul&gt;&#xA;&lt;li&gt;sub&lt;/li&gt;&#xA;&lt;li&gt;sub&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;test&lt;/li&gt;&#xA;&lt;li&gt;test&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
       
     </item>

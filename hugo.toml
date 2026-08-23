@@ -13,6 +13,7 @@ colorScheme = "noir"
     links = [
       { github = "https://github.com/Willie169" },
       { mastodon = "https://mastodon.social/@willie_shen" },
+      { rss = "https://willie169.github.io/blog/index.xml" },
     ]
 
 [markup]
