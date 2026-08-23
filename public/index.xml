@@ -2,19 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Willie169&#39;s Blog</title>
-    <link>https://willie169.github.io/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content on Willie169&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2026 Willie Shen</copyright>
-    <lastBuildDate>Sun, 23 Aug 2026 20:00:14 +0800</lastBuildDate><atom:link href="https://willie169.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Aug 2026 21:10:46 +0800</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/blog/about/</link>
+      <pubDate>Sun, 23 Aug 2026 21:10:46 +0800</pubDate>
+      
+      <guid>http://localhost:1313/blog/about/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Hello, world!&#xA;    &lt;div id=&#34;hello-world&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#hello-world&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;My name is &lt;strong&gt;Weiyu Shen 沈威宇&lt;/strong&gt;, also known as &lt;strong&gt;Willie169&lt;/strong&gt; or &lt;strong&gt;Willie Shen&lt;/strong&gt;. I graduated from &lt;a href=&#34;https://www.ck.tp.edu.tw&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;strong&gt;Taipei Municipal Chien Kuo High School (CKHS) 臺北市立建國高級中學&lt;/strong&gt;&lt;/a&gt; in 2025 and am currently an 19-year-old undergraduate in &lt;a href=&#34;https://web.ee.ntu.edu.tw&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;strong&gt;National Taiwan University Department of Electrical Engineering (NTUEE) 國立臺灣大學電機工程學系&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Mastodon: &lt;a href=&#34;https://mastodon.social/@willie_shen&#34; rel=&#34;me&#34;&gt;https://mastodon.social/@willie_shen&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Matrix: &lt;a href=&#34;https://matrix.org&#34;&gt;@willie169:matrix.org&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h3 class=&#34;relative group&#34;&gt;Languages I Use&#xA;    &lt;div id=&#34;languages-i-use&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#languages-i-use&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Traditional Chinese (native), English, C/C++ (primary), LaTeX (primary), Python, JavaScript, Java, Shell, HTML.&lt;/p&gt;</description>
+      
+    </item>
     
     <item>
       <title>Helloworld</title>
-      <link>https://willie169.github.io/blog/posts/helloworld/</link>
+      <link>http://localhost:1313/blog/posts/helloworld/</link>
       <pubDate>Sun, 23 Aug 2026 20:00:14 +0800</pubDate>
       
-      <guid>https://willie169.github.io/blog/posts/helloworld/</guid>
+      <guid>http://localhost:1313/blog/posts/helloworld/</guid>
       <description>&lt;p&gt;Test&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://example.com&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;this is a link&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;code&lt;/code&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;list&lt;/li&gt;&#xA;&lt;li&gt;list&#xA;&lt;ul&gt;&#xA;&lt;li&gt;sub&lt;/li&gt;&#xA;&lt;li&gt;sub&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;test&lt;/li&gt;&#xA;&lt;li&gt;test&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
       
     </item>

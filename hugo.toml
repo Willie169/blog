@@ -13,6 +13,7 @@ colorScheme = "noir"
     links = [
       { github = "https://github.com/Willie169" },
       { mastodon = "https://mastodon.social/@willie_shen" },
+      { matrix = "https://matrix.to/#/@willie169:matrix.org" },
       { rss = "https://willie169.github.io/blog/index.xml" },
     ]
 
@@ -30,8 +31,18 @@ colorScheme = "noir"
     posts = '/posts/:contentbasename/'
     # linux = '/posts/:contentbasename/'
 
-[menu]
-  [[main]]
-    name = "Blog"
-    pageRef = "posts"
+ [menus]
+  [[menus.main]]
+    name = "Home"
+    pageRef = "/"
     weight = 10
+
+  [[menus.main]]
+    name = "Posts"
+    pageRef = "/posts"
+    weight = 20
+
+  [[menus.main]]
+    name = "About"
+    pageRef = "/about"
+    weight = 30
