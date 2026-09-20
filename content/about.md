@@ -61,7 +61,7 @@ A tutorial that explores a range of powerful, open-source tools such as [Termux]
 ### Termux and Linux Tools and Instructions
 
 * [**termux-sh**](https://github.com/Willie169/termux-sh): Scripts for [Termux](https://github.com/termux/termux-app) including setup automation, shortcuts, installations and configurations of development tools and emulation environments such as proot, proot-distro, QEMU system emulation, box64, and more.
-* [**ubuntu-setup-with-vnc-and-gpu**](https://github.com/Willie169/ubuntu-setup-with-vnc-and-gpu): Scripts and instructions for setting up Ubuntu derivatives on AMD64 with tools for development, productivity, graphics, remote control, multimedia, communication, and more.
+* [**ubuntu-setup**](https://github.com/Willie169/ubuntu-setup): Scripts and instructions for setting up Ubuntu derivatives on AMD64 with tools for development, productivity, graphics, remote control, multimedia, communication, and more.
 * [**switch-firefox-from-snap-to-deb**](https://github.com/Willie169/switch-firefox-from-snap-to-deb): Scripts to switch Firefox and Thunderbird from Snap to .deb and fix Fcitx5 not working on Firefox from PPA.
 * [**dual-boot-windows-linux-and-recovery**](https://github.com/Willie169/dual-boot-windows-linux-and-recovery): Instructions about dual-booting Windows (assumed Windows 11, may apply to Windows 10 with few changes) and Linux, recovery of Windows and Linux, and related stuff.
 * [**LinuxAndTermuxTips**](https://github.com/Willie169/LinuxAndTermuxTips): Tips for Linux and Termux.
